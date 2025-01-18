@@ -3,3 +3,7 @@
 Hey there fellow stalkers!
 
 ![](https://komarev.com/ghpvc/?username=abhilxsh07&label=Stalkers)
+
+<a href="https://github.com/deadly">
+  <img src="https://komarev.com/ghpvc/?username=deadly&color=blueviolet" />
+</a>
