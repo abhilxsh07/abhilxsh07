@@ -3,5 +3,5 @@
 Hey there fellow stalkers!
 
 <a href="https://github.com/abhilxsh07">
-  <img src="https://komarev.com/ghpvc/?username=abhilxsh07&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=abhilxsh07&color=blueviolet&label=Stalkers" />
 </a>
