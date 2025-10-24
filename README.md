@@ -20,4 +20,4 @@ while (a != target):
     random.shuffle(a)
     print(a)
 ```
-to the table
+type of mindset to the table
