@@ -6,9 +6,11 @@ Hey there fellow stalkers!
   <img src="https://komarev.com/ghpvc/?username=abhilxsh07&color=blueviolet&label=Stalkers" />
 </a>
 
-
-<br><br>
-
+<br>
+<br> 
+I mess around with - Python, C++, C, JS, React, SQL, Full Stack 
+<br>
+<br>
 
 I bring a
 
