@@ -14,12 +14,11 @@ I mess around with - Python, C++, C, JS, React, SQL, Full Stack
 
 I bring a
 
-```python
-import random
-a = [4, 2, 3, 7]
-target = sorted(a)
-while (a != target):
-    random.shuffle(a)
-    print(a)
+```c++
+void sort(std::vector<int>& v) {
+    while (!std::is_sorted(v.begin(), v.end())) {
+        std::random_shuffle(v.begin(), v.end());
+    }
+}
 ```
 type of mindset to the table
