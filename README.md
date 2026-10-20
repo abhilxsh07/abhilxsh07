@@ -17,6 +17,7 @@ Currently building **[sable](https://github.com/abhilxsh07/sable)**, a dark-mode
 
 ## Other work and experiments
 
+- **[Spatial Computing Lab](https://github.com/abhilxsh07/srm-spatial-computing-lab)** — building the website for SRMIST's Spatial Computing Lab, with a filterable catalogue of 39 lab projects, mentor profiles, resources and a gallery. **React · TypeScript · Vite.** In progress; the [preview](https://srm-spatial-computing-lab.vercel.app) is live.
 - **[Cursus](https://abhilashkar.dev/work#cursus)** — built an AI study workspace with cited answers over uploaded notes, summaries, quizzes and Google Calendar sync. **Next.js · TypeScript · Supabase/pgvector · OpenAI.** Now shelved; the portfolio has a case study.
 - **[IdeaSpark 3.0 playbook](https://ideaspark.thefoundersclub.tech/playbook)** — built the Next.js playbook pages for Founders Club.
 - **LLM lab** — building a small GPT from scratch and experimenting with a LoRA fine-tune of Llama 3.1 8B.
