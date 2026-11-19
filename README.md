@@ -2,7 +2,7 @@
 
 I build web apps and native Windows software.  
 Full-stack developer, co-founder of **Forma Labs**, and CSE student at **SRMIST** in Chennai.  
-Currently building **[sable](https://github.com/abhilxsh07/sable)**, a dark-mode PDF reader for Windows.
+My dark-mode PDF reader for Windows, **[sable](https://github.com/abhilxsh07/sable)**, is out in public alpha: [download v1.0.0-alpha.1](https://github.com/abhilxsh07/sable/releases/tag/v1.0.0-alpha.1).
 
 [Portfolio](https://abhilashkar.dev/) · [LinkedIn](https://www.linkedin.com/in/abhilxsh/) · [Résumé](https://abhilashkar.dev/resume) · [Contact](https://abhilashkar.dev/contact)
 
@@ -10,7 +10,7 @@ Currently building **[sable](https://github.com/abhilxsh07/sable)**, a dark-mode
 
 | Project | What I've built |
 | --- | --- |
-| **[sable](https://github.com/abhilxsh07/sable)** | Native Windows PDF reader based on NightPDF, with tabs, night filters, search, text selection and an outline sidebar. **C++/WinRT · WinUI 3 · PDFium · Direct2D.** In development. |
+| **[sable](https://github.com/abhilxsh07/sable)** | Native dark-mode PDF reader for Windows, ported from NightPDF: tabs, night filters, Find, comments, form filling, Fill & Sign, page organizing, export and printing. **C++/WinRT · WinUI 3 · PDFium · Direct2D.** Public alpha (v1.0.0-alpha.1). |
 | **[clipstash](https://github.com/abhilxsh07/clipstash)** | Save, tag, search and copy code snippets from the terminal, with JSON import/export. **Python.** Usable and installable from source. |
 | **[Ultron 9.0](https://github.com/abhilxsh07/futurixUltron9.0)** | Hackathon submission platform built for Futurix, with invite-only sign-in, deadline rules and admin moderation. **React · TypeScript · PHP · MySQL.** |
 | **[abhilashkar.dev](https://github.com/abhilxsh07/portfolio_v2)** | My portfolio, with an interactive terminal and shared project data powering both the pages and terminal commands. **React · Vite · Tailwind CSS · Motion.** |
