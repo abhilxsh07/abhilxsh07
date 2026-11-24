@@ -13,7 +13,7 @@ My dark-mode PDF reader for Windows, **[sable](https://github.com/abhilxsh07/sab
 | **[sable](https://github.com/abhilxsh07/sable)** | Native dark-mode PDF reader for Windows, ported from NightPDF: tabs, night filters, Find, comments, form filling, Fill & Sign, page organizing, export and printing. **C++/WinRT · WinUI 3 · PDFium · Direct2D.** Public alpha (v1.0.0-alpha.1). |
 | **[clipstash](https://github.com/abhilxsh07/clipstash)** | Save, tag, search and copy code snippets from the terminal, with JSON import/export. **Python.** Usable and installable from source. |
 | **[Ultron 9.0](https://github.com/abhilxsh07/futurixUltron9.0)** | Hackathon submission platform built for Futurix, with invite-only sign-in, deadline rules and admin moderation. **React · TypeScript · PHP · MySQL.** |
-| **[abhilashkar.dev](https://github.com/abhilxsh07/portfolio_v2)** | My portfolio, with an interactive terminal. One data file feeds both the pages and the terminal commands. **React · Vite · Tailwind CSS · Motion.** |
+| **[abhilashkar.dev](https://abhilashkar.dev)** | My portfolio, with an interactive terminal. One data file feeds both the pages and the terminal commands. **React · Vite · Tailwind CSS · Motion.** |
 
 ## Other work and experiments
 
